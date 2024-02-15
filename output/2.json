@@ -1,0 +1,212 @@
+{
+    "page": {
+        "S": "register2"
+    },
+    "username": {
+        "S": "1qaz1qaz"
+    },
+    "hashed_password": {
+        "S": "99fb9e76a037ab729b96ab2dc43acfc8b986145fd35b0bad7c436bb5fdfa2ca3"
+    },
+    "password_length": {
+        "S": "10"
+    },
+    "password_count_numeric": {
+        "S": "2"
+    },
+    "password_count_alpha": {
+        "S": "6"
+    },
+    "password_count_uppercase": {
+        "S": "0"
+    },
+    "password_count_symbols": {
+        "S": "2"
+    },
+    "model_run_modelRank": {
+        "S": "228831692813686.0"
+    },
+    "model_run_modelProb": {
+        "S": "2.3583764939885276e-17"
+    },
+    "model_run_prefixProb": {
+        "S": "2.5238066413800033e-10"
+    },
+    "model_run_baseProb": {
+        "S": "2.9476445470279547e-05"
+    },
+    "model_run_suffixProb": {
+        "S": "0.5455086085146511"
+    },
+    "model_run_l33tProb": {
+        "S": "0.0062201486461510545"
+    },
+    "model_run_upperProb": {
+        "S": "0.934285428777826"
+    },
+    "model_run_finalPrefix_length": {
+        "S": "3"
+    },
+    "model_run_finalunL33tBaseWord_length": {
+        "S": "7"
+    },
+    "model_run_finalSuffix_length": {
+        "S": "0"
+    },
+    "model_run_l33tList": {
+        "S": "(12,)"
+    },
+    "model_run_upperList": {
+        "S": "()"
+    },
+    "model_run_nonePrefixProbFlag": {
+        "S": "True"
+    },
+    "model_run_noneBaseProbFlag": {
+        "S": "False"
+    },
+    "model_run_noneSuffixProbFlag": {
+        "S": "False"
+    },
+    "model_run_noneL33tProbFlag": {
+        "S": "False"
+    },
+    "model_run_noneUpperProbFlag": {
+        "S": "False"
+    },
+    "model_run_bits": {
+        "S": "47.701"
+    },
+    "model_run_percentile": {
+        "S": "47"
+    },
+    "model_run_recommendation_1": {
+        "S": "('1#]qaz1qaz>', 59.499)"
+    },
+    "model_run_recommendation_2": {
+        "S": "('1#]qaz1qaZ>', 67.003)"
+    },
+    "model_run_recommendation_3": {
+        "S": "('1#]qaz1qaz*{\"', 73.076)"
+    },
+    "model_run_recommendation_4": {
+        "S": "('1#]qaz1qaZ*{\"', 79.523)"
+    },
+    "model_run_recommendation_5": {
+        "S": "('1#]7qaz1qaZ*{\"', 79.523)"
+    },
+    "model_run_recommendation_6": {
+        "S": "('1#]7qaz!qaZ*{\"', 81.891)"
+    },
+    "model_run_recommendation_7": {
+        "S": "('1#=@]qaz!qaZ*{\"', 81.891)"
+    },
+    "model_ui_password_strength": {
+        "S": "strong"
+    },
+    "model_ui_password_percentile": {
+        "S": "8%"
+    },
+    "model_ui_hack_time": {
+        "S": "2.19"
+    },
+    "model_ui_hack_unit": {
+        "S": "years"
+    },
+    "model_ui_rec_lev_1": {
+        "S": "1"
+    },
+    "model_ui_pass_1": {
+        "S": "1#]qaz1qaz>"
+    },
+    "model_ui_bits_1": {
+        "S": "59.499"
+    },
+    "model_ui_hack_time_1": {
+        "S": "7.8"
+    },
+    "model_ui_hack_unit_1": {
+        "S": "millennia"
+    },
+    "model_ui_rec_lev_2": {
+        "S": "3"
+    },
+    "model_ui_pass_2": {
+        "S": "1#]qaz1qaz*{\""
+    },
+    "model_ui_bits_2": {
+        "S": "73.076"
+    },
+    "model_ui_hack_time_2": {
+        "S": "95260.41"
+    },
+    "model_ui_hack_unit_2": {
+        "S": "millennia"
+    },
+    "model_ui_rec_lev_3": {
+        "S": "6"
+    },
+    "model_ui_pass_3": {
+        "S": "1#]7qaz!qaZ*{\""
+    },
+    "model_ui_bits_3": {
+        "S": "81.891"
+    },
+    "model_ui_hack_time_3": {
+        "S": "42903414.21"
+    },
+    "model_ui_hack_unit_3": {
+        "S": "millennia"
+    },
+    "model_ui_screen_1": {
+        "S": "*#]*******"
+    },
+    "model_ui_screen_2": {
+        "S": "*#]*******8"
+    },
+    "model_ui_screen_3": {
+        "S": "*#]***!***']"
+    },
+    "experiment_group": {
+        "S": "1"
+    },
+    "recommendation_button_1_pressed": {
+        "S": "1"
+    },
+    "recommendation_button_2_pressed": {
+        "S": "0"
+    },
+    "recommendation_button_3_pressed": {
+        "S": "0"
+    },
+    "recommendation_1_injected": {
+        "S": "1"
+    },
+    "recommendation_2_injected": {
+        "S": "0"
+    },
+    "recommendation_3_injected": {
+        "S": "0"
+    },
+    "recommendation_1_canceled": {
+        "S": "0"
+    },
+    "recommendation_2_canceled": {
+        "S": "0"
+    },
+    "recommendation_3_canceled": {
+        "S": "0"
+    },
+    "second_shown": {
+        "S": "0"
+    },
+    "registration1_start_time": {
+        "S": "1706964247.6498659"
+    },
+    "page_start_time": {
+        "S": "1706964247.6498659"
+    },
+    "page_end_time": {
+        "S": "1706964248.491253"
+    }
+}

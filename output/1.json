@@ -1,0 +1,182 @@
+{
+    "page": {
+        "S": "register1"
+    },
+    "username": {
+        "S": "john doe"
+    },
+    "hashed_password": {
+        "S": "8de8edb14148430ed24a4ffb0b9050acf152f1b85f3e39f7ca54278b110d625f"
+    },
+    "password_length": {
+        "S": "8"
+    },
+    "password_count_numeric": {
+        "S": "2"
+    },
+    "password_count_alpha": {
+        "S": "6"
+    },
+    "password_count_uppercase": {
+        "S": "0"
+    },
+    "password_count_symbols": {
+        "S": "0"
+    },
+    "model_run_modelRank": {
+        "S": "82816231.0"
+    },
+    "model_run_modelProb": {
+        "S": "8.048690012556031e-10"
+    },
+    "model_run_prefixProb": {
+        "S": "0.008613271612855815"
+    },
+    "model_run_baseProb": {
+        "S": "2.9476445470279547e-05"
+    },
+    "model_run_suffixProb": {
+        "S": "0.5455086085146511"
+    },
+    "model_run_l33tProb": {
+        "S": "0.0062201486461510545"
+    },
+    "model_run_upperProb": {
+        "S": "0.934285428777826"
+    },
+    "model_run_finalPrefix_length": {
+        "S": "1"
+    },
+    "model_run_finalunL33tBaseWord_length": {
+        "S": "7"
+    },
+    "model_run_finalSuffix_length": {
+        "S": "0"
+    },
+    "model_run_l33tList": {
+        "S": "(12,)"
+    },
+    "model_run_upperList": {
+        "S": "()"
+    },
+    "model_run_nonePrefixProbFlag": {
+        "S": "False"
+    },
+    "model_run_noneBaseProbFlag": {
+        "S": "False"
+    },
+    "model_run_noneSuffixProbFlag": {
+        "S": "False"
+    },
+    "model_run_noneL33tProbFlag": {
+        "S": "False"
+    },
+    "model_run_noneUpperProbFlag": {
+        "S": "False"
+    },
+    "model_run_bits": {
+        "S": "26.303"
+    },
+    "model_run_percentile": {
+        "S": "26"
+    },
+    "model_run_recommendation_1": {
+        "S": "('1@qaz1qaz', 35.523)"
+    },
+    "model_run_recommendation_2": {
+        "S": "('1qaz1qaz\\\\#', 49.12)"
+    },
+    "model_run_recommendation_3": {
+        "S": "('1qaz1qaz/}_', 53.88)"
+    },
+    "model_run_recommendation_4": {
+        "S": "('1@qaz1qaz/}_', 62.171)"
+    },
+    "model_run_recommendation_5": {
+        "S": "('}^31qaz1qaz\\\\#', 68.73)"
+    },
+    "model_run_recommendation_6": {
+        "S": "('}^31qaz1qaz/}_', 73.076)"
+    },
+    "model_run_recommendation_7": {
+        "S": "('}^31qaz!qaz/}_', 75.373)"
+    },
+    "model_ui_password_strength": {
+        "S": "weak"
+    },
+    "model_ui_password_percentile": {
+        "S": "65%"
+    },
+    "model_ui_hack_time": {
+        "S": "23.0"
+    },
+    "model_ui_hack_unit": {
+        "S": "seconds"
+    },
+    "model_ui_rec_lev_1": {
+        "S": "1"
+    },
+    "model_ui_pass_1": {
+        "S": "1@qaz1qaz"
+    },
+    "model_ui_bits_1": {
+        "S": "35.523"
+    },
+    "model_ui_hack_time_1": {
+        "S": "3.81"
+    },
+    "model_ui_hack_unit_1": {
+        "S": "hours"
+    },
+    "model_ui_rec_lev_2": {
+        "S": "3"
+    },
+    "model_ui_pass_2": {
+        "S": "1qaz1qaz/}_"
+    },
+    "model_ui_bits_2": {
+        "S": "53.88"
+    },
+    "model_ui_hack_time_2": {
+        "S": "1.59"
+    },
+    "model_ui_hack_unit_2": {
+        "S": "centuries"
+    },
+    "model_ui_rec_lev_3": {
+        "S": "6"
+    },
+    "model_ui_pass_3": {
+        "S": "}^31qaz1qaz/}_"
+    },
+    "model_ui_bits_3": {
+        "S": "73.076"
+    },
+    "model_ui_hack_time_3": {
+        "S": "95260.41"
+    },
+    "model_ui_hack_unit_3": {
+        "S": "millennia"
+    },
+    "registration1_start_time": {
+        "S": "1707558883.993353"
+    },
+    "model_ui_screen_1": {
+        "S": "*@*******"
+    },
+    "model_ui_screen_2": {
+        "S": "********/}_"
+    },
+    "model_ui_screen_3": {
+        "S": "}^3********/}_"
+    },
+    "experiment_group": {
+        "S": "4"
+    },
+    "page_start_time": {
+        "S": "1707558883.993353"
+    },
+    "page_end_time": {
+        "S": "1707558884.997209"
+    }
+}
